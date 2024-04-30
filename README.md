@@ -3,7 +3,12 @@
 - 🌱 I’m currently studying Information System at University of Mauritius
 - 📫 my personal email address is : hansleyeleonore@gmail.com
 
+
+
 <!---
 h4nsl3y/h4nsl3y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h1>Hola</h1>
+
+<img aligh="left" alt="java" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
