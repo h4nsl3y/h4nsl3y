@@ -1,8 +1,7 @@
 <h1>👋 Hi, I’m @h4nsl3y</h1>
-- 👀 I’m interested in languages such as Python ,Java and French✨
-- 🌱 I’m currently a software engineer in test at Dayforce
-- 📫 my personal email address is : hansleyeleonore@gmail.com
-
+<p>🗨️ I’m interested in languages such as Python ,Java and French✨</p> 
+<p>💻 I’m currently a software engineer in test at Dayforce</p> 
+<p>📫 my personal email address is : hansleyeleonore@gmail.com</p> 
 
 <p>👀Few things are as enjoyable as the process of developing and testing software.</p>
 <br>
@@ -19,6 +18,8 @@
 h4nsl3y/h4nsl3y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h2>Here is my toolbox content : </h2>
 <img align="left" alt="Java" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 <img align="left" alt="Python" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="C#" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />      
@@ -30,7 +31,9 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Selenium" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Cucumber" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<img align="left" alt="Azure DevOps" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />     
+<img align="left" alt="Azure DevOps" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
 
         
           
