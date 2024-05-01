@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Here is my toolbox content : </h2>
 
-<div width="95%"  style="margin:2.5% 0px"></div>
+<div width="95%"  style="margin:2.5% 0px">
 
 <img align="left" alt="Java" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 <img align="left" alt="Python" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Javascript" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />        
 <img alig="left" alt="SQL" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="SQL lite" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-
+</div>
           
 
         
