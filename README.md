@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m @h4nsl3y</h1>
-<p>🗨️ I’m interested in languages such as Python ,Java and French✨</p> 
+<p>🗨️ I’m interested in languages such as C# ,Python ,Java and French✨</p> 
 <p>💻 I’m currently a software engineer in test at Dayforce</p> 
 <p>📫 my personal email address is : hansleyeleonore@gmail.com</p> 
 
