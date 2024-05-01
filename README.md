@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>Here is my toolbox content : </h2>
 
-<div">
+<div>
           <img align="left" alt="Java" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
           <img align="left" alt="Python" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           <img align="left" alt="C#" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />      
