@@ -32,7 +32,8 @@ You can click the Preview link to take a look at your changes.
           <img align="left" alt="Git" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
           <img align="left" alt="HTML 5" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
           <img align="left" alt="CSS" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          <img align="left" alt="Javascript" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />        
+          <img align="left" alt="Javascript" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />    
+          <img align="left" alt="Javascript" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />     
           <img alig="left" alt="SQL" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           <img align="left" alt="SQL lite" width="40px" style="padding-right:10px text-align:center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
